@@ -1,7 +1,7 @@
 <h1 align="center">Auto text </h1><br>
 <br>
 <p align="center">
-For Live preview: <a href="https://ash-win-n.github.io/auto-text-effect/"></a>Auto-text-scrolling</p><br>
+For Live preview: <a href="https://ash-win-n.github.io/auto-text-effect/">Auto-text-scrolling</a></p><br>
 
 <p align="center">
 
