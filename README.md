@@ -1,10 +1,11 @@
-<h1 align="center">Animated Navigation</h1><br>
+<h1 align="center">Auto text </h1><br>
 <br>
 <p align="center">
-for Live preview: <a href="https://ash-win-n.github.io/animated-navigation/">Animated Navigation</a></p><br>
+For Live preview: <a href="https://ash-win-n.github.io/auto-text-effect/"></a>Auto-text-scrolling</p><br>
 
 <p align="center">
 
-<img width="830" alt="ani-nav" src="https://user-images.githubusercontent.com/70138036/186632978-94a535de-47da-468a-aa1a-8dd8e37d620f.png">
+<img width="862" alt="auto-txt" src="https://user-images.githubusercontent.com/70138036/186636264-10f71412-f8f9-448d-bb2e-067038d026fd.png">
+
 
 </p>
